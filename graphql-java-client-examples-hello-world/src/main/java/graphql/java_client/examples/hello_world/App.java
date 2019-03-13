@@ -1,4 +1,4 @@
-package com.graphql_java_client.examples.graphql_java_client.examples.hello_world;
+package graphql.java_client.examples.hello_world;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package com.graphql_java_client.examples.graphql_java_client.examples.hello_world.domain;
+package graphql.java_client.examples.hello_world.domain;
 
 import java.util.List;
 
