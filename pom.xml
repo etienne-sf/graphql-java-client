@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.graphql-java</groupId>
-	<artifactId>graphql-java-client-project</artifactId>
+	<artifactId>OLD_graphql-java-client-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 

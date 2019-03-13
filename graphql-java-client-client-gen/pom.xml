@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<artifactId>graphql-java-client-client-gen</artifactId>
+	<artifactId>OLD_graphql-java-client-client-gen</artifactId>
 	<packaging>jar</packaging>
 
 
